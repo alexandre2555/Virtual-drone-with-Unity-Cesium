@@ -69,7 +69,7 @@ The drone behavior is governed by the `DroneMovementScript.cs`. Here is a breakd
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 1.  **Clone the repository:**
     ```bash
@@ -96,7 +96,7 @@ The drone behavior is governed by the `DroneMovementScript.cs`. Here is a breakd
 
 ---
 
-## 📝 Credits
+## Credits
 
 * **Engine:** Unity Technologies
 * **Geospatial Data:** Cesium for Unity
